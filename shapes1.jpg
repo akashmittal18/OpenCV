@@ -1,0 +1,1523 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html lang="en" id="top" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" id="top" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" id="top" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" id="top" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" id="top" class="no-js"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Shapes, Colors, and Size Mat</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="description" content="The shapes, colors, and size mat is made of washable vinyl and measures approximately 24&quot; by 24&quot; (60 cm. by 60 cm.)" />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="https://www.terrapinlogo.com/media/favicon/stores/1/turtle.png" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.terrapinlogo.com/media/favicon/stores/1/turtle.png" type="image/x-icon" />
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.terrapinlogo.com/js/blank.html';
+    var BLANK_IMG = 'https://www.terrapinlogo.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/js/calendar/calendar-win2k-1.css" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/terrapin/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/base/default/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/itemslider.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/generic-nav.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/brands/brands.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/ultra-slideshow/ultra-slideshow.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/accordion.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/ultra-megamenu/menu.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/styles-infortis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/components/animate/animate.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/banners.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/generic-cck.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/dropdown.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/itemgrid.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/tabs.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/icons.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/icons-font.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/common.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/override-modules.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/override-theme.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/header.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/bootstrap/bootstrap-grid.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/grid12.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/_config/design_terrapin.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/_config/grid_terrapin.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/_config/layout_terrapin.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/override-config.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/custom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/base/default/css/gene/braintree/minified/applepay.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/base/default/css/gene/braintree/minified/default.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/base/default/css/gene/braintree/minified/express.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/cloud-zoom/cloud-zoom.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/infortis/_shared/colorbox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/print.css" media="print" />
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/jquery-noconflict.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/jquery.owlcarousel.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/jquery.easing.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/jquery.accordion.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/matchMedia.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/matchMedia.addListener.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/enquire.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/jquery.tabs.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/imagesloaded.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/varien/product.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/varien/product_options.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/varien/configurable.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/calendar/calendar.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/jquery.cloudzoom.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/infortis/jquery/plugins/jquery.colorbox.min.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/skin/frontend/ultimo/default/js/ultramegamenu.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/skin/frontend/ultimo/default/js/smartheader.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/skin/frontend/ultimo/default/js/stickyheader.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/skin/frontend/ultimo/default/js/app.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/plugincompany/contactforms/lib/head.load.min.js" sort="last"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/plugincompany/contactforms/pccforms.js" sort="last"></script>
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.terrapinlogo.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.terrapinlogo.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/styles-ie7.css" media="all" />
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.terrapinlogo.com/skin/frontend/ultimo/default/css/styles-ie8.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.terrapinlogo.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA","AE"];
+//]]>
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PTDP5R9');</script>
+<style type="text/css">
+									</style><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><link rel="stylesheet" type="text/css" href="/skin/frontend/default/terrapin/terrapin.css" media="all" />
+<!-- Magento scan ID (https://account.magento.com/scanner/index/form/) -->
+<!--943542f9b81b535eadf78d7cd8349d88-->
+
+<!-- Add our own script -->
+<script src="/js/terrapin/custom.js"></script>
+
+
+	<link href='//fonts.googleapis.com/css?family=Montserrat&amp;subset=latin' rel='stylesheet' type='text/css' />
+</head>
+<body class=" catalog-product-view responsive catalog-product-view product-shapes-colors-and-size-mat ">
+<div id="root-wrapper">
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div id="header-container" class="header-container header-mobile" style="display:none;">
+<div class="header-container2">
+<div class="header-container3">
+
+        <!-- Part of the header displayed only in mobile mode -->
+    <div class="header-m-container">
+
+        <div class="header-m-top-container">
+            <div class="header-m-top header container clearer">
+                <div class="inner-container">
+
+                    
+                                        
+                </div> <!-- end: inner-container -->
+            </div> <!-- end: header-m-top -->
+        </div> <!-- end: header-m-top-container -->
+
+        <div class="header-m-primary-container">
+            <div class="header-m-primary header container">
+                <div class="inner-container">
+
+                    
+                    <!-- Mobile logo -->
+                    <div class="logo-wrapper--mobile">
+                        <a class="logo logo--mobile" href="https://www.terrapinlogo.com/" title="Terrapin Logo Home">
+                            <img src="https://www.terrapinlogo.com/skin/frontend/ultimo/terrapin/images/logo.jpg" alt="Terrapin Logo Home" />
+                        </a>
+                    </div>
+                    <div class="clearer after-mobile-logo"></div>
+
+                    <!-- Skip links -->
+                    <div class="skip-links-wrapper skip-links--4">
+
+                                                    <a href="#header-nav" class="skip-link skip-nav">
+                                <span class="icon ic ic-menu"></span>
+                                <span class="label">Menu</span>
+                            </a>
+                        
+                                                    <a href="#header-search" class="skip-link skip-search">
+                                <span class="icon ic ic-search"></span>
+                                <span class="label">Search</span>
+                            </a>
+                        
+                                                    <a href="#header-account" class="skip-link skip-account">
+                                <span class="icon ic ic-user"></span>
+                                <span class="label">Account</span>
+                            </a>
+                        
+                        
+                        
+                                                                            <div id="mini-cart-marker-mobile"></div>
+                            <div id="mini-cart" class="mini-cart dropdown is-empty">
+
+    <a href="#header-cart" class="mini-cart-heading dropdown-heading cover skip-link skip-cart">
+        <span>
+        
+            <span class="icon ic ic-cart"></span>
+                        <span class="label" style="display:none;">Cart</span>
+                        <span class="caret"></span>
+
+        </span>
+    </a> <!-- end: heading -->
+    
+                <div id="header-cart" class="mini-cart-content dropdown-content left-hand block block block-cart skip-content skip-content--style">
+            <div class="block-content-inner">
+
+                                <div class="empty">You have no items in your shopping cart.</div>
+
+            </div> <!-- end: inner block -->
+        </div> <!-- end: dropdown-content -->
+    
+</div>
+                        
+                                                    <div id="header-nav" class="skip-content skip-content--style">
+                                <div id="nav-marker-mobile"></div>
+                            </div>
+
+                                                    <div id="search-marker-mobile"></div>
+                            <div id="header-search" class="skip-content skip-content--style">
+    <div class="search-wrapper">
+        <form id="search_mini_form" action="https://www.terrapinlogo.com/catalogsearch/result/" method="get">
+    <div class="form-search">
+        <label for="search">Search:</label>
+        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128" />
+        <button type="submit" title="Search" class="button"><span><span>Search</span></span></button>
+        <div id="search_autocomplete" class="search-autocomplete"></div>
+        <script type="text/javascript">
+        //<![CDATA[
+            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+            searchForm.initAutocomplete('https://www.terrapinlogo.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+        //]]>
+        </script>
+    </div>
+</form>
+    </div>
+</div>
+                        
+                                                    <div id="account-links-marker-mobile"></div>
+                                <div id="header-account" class="account-links top-links links-wrapper-separators-left skip-content skip-content--style">
+        <ul class="links">
+                        <li class="first" ><a href="https://www.terrapinlogo.com/customer/account/" title="Account" >Account</a></li>
+                                <li class=" last" ><a href="https://www.terrapinlogo.com/customer/account/login/" title="Log In" >Log In</a></li>
+            </ul>
+    </div>
+                        
+                        
+                            <div class="skip-links-clearer clearer"></div>
+
+                    </div> <!-- end: skip-links-wrapper -->
+
+                </div> <!-- end: inner-container -->
+            </div> <!-- end: header-m-primary -->
+        </div> <!-- end: header-m-primary-container -->
+
+    </div> <!-- end: header-m-container -->
+    
+    <!-- Part of the header displayed only in regular mode -->
+    <div class="header-top-container">
+        <div class="header-top header container clearer">
+            <div class="inner-container">
+
+                                
+                <div class="left-column">
+
+                    
+                    
+                                                            <div class="item item-left hide-below-960">
+                        <p class="welcome-msg"> </p>
+                    </div>
+
+                </div> <!-- end: left column -->
+
+                <div class="right-column">
+
+                    
+                                        
+                    
+                    
+                    
+                </div> <!-- end: right column -->
+
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: header-top -->
+    </div> <!-- end: header-top-container -->
+
+    <div class="header-primary-container">
+        <div class="header-primary header container">
+            <div class="inner-container">
+
+                
+                                <div class="hp-blocks-holder hp-blocks-holder--stacked">
+
+                                            <!-- Left column -->
+                        <div class="hp-block left-column grid12-2">
+                                                                                                                            <div class="item"><div class="logo-wrapper logo-wrapper--regular">
+			<a class="logo logo--regular" href="https://www.terrapinlogo.com/" title="Terrapin Logo Home"><strong>Terrapin Logo Home</strong><img src="https://www.terrapinlogo.com/skin/frontend/ultimo/terrapin/images/logo.jpg" alt="Terrapin Logo Home" /></a>
+	</div>
+</div>
+                                                                                    </div> <!-- end: left column -->
+                    
+                                            <!-- Central column -->
+                        <div class="hp-block central-column grid12-10">
+                                                                                                                            <div class="item">
+    <div class="nav-container skip-content sticky-container simple">
+        <div class="nav container clearer">
+            <div class="inner-container"><div class="navi-wrapper">
+
+        <ul class="nav-holders-wrapper">
+        <li id="nav-holder1" class="nav-item level0 level-top nav-holder"><div id="search-marker-regular"></div></li>
+        <li id="nav-holder2" class="nav-item level0 level-top nav-holder"><div id="mini-cart-marker-regular"></div></li>
+        <li id="nav-holder3" class="nav-item level0 level-top nav-holder"></li>
+    </ul>
+
+            
+        <div class="mobnav-trigger menu-trigger">
+            <div class="menu-trigger-inner">
+                <span class="trigger-icon"><span class="line"></span><span class="line"></span><span class="line"></span></span>
+                <span class="label">Menu</span>
+            </div>
+        </div>
+
+    
+        
+            
+        <div id="nav-marker-regular"></div>
+    <nav id="mainmenu" class="navi nav-regular opt-fx-fade-inout opt-sb0 opt-sob opt-hide480 with-bullets">
+        <ul>
+
+                        
+            
+                        
+                                        <li class="nav-item level0 nav-1 level-top first nav-item--parent mega parent"><a href="#" class="level-top no-click"><span>Products</span><span class="caret"></span></a><span class="opener"></span><div class="nav-panel--dropdown nav-panel full-width"><div class="nav-panel-inner"><div class="nav-block nav-block--top std grid-full"><span class="products-temp" style="display:none"></span></div><div class="nav-block--center grid12-12"><ul class="level0 nav-submenu nav-submenu--mega dd-itemgrid dd-itemgrid-4col"><li class="nav-item level1 nav-1-1 first nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/robots.html"><span>Programming Journey Robots</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-1-1 first classic"><a href="https://www.terrapinlogo.com/products/robots/bee-bot.html"><span>Bee-Bot</span></a></li><li class="nav-item level2 nav-1-1-2 classic"><a href="https://www.terrapinlogo.com/products/robots/blue-bot.html"><span>Blue-Bot</span></a></li><li class="nav-item level2 nav-1-1-3 classic"><a href="https://www.terrapinlogo.com/products/robots/pro-bot.html"><span>Pro-Bot</span></a></li><li class="nav-item level2 nav-1-1-4 last classic"><a href="https://www.terrapinlogo.com/products/robots/ino.html"><span>InO-Bot</span></a></li></ul></li><li class="nav-item level1 nav-1-2 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bundles.html"><span>Bundles</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-2-5 first classic"><a href="https://www.terrapinlogo.com/products/bundles/hive.html"><span>Hive Bundle</span></a></li><li class="nav-item level2 nav-1-2-6 classic"><a href="https://www.terrapinlogo.com/products/bundles/class.html"><span>Class Bundle</span></a></li><li class="nav-item level2 nav-1-2-7 classic"><a href="https://www.terrapinlogo.com/products/bundles/learning-station.html"><span>Learning Station</span></a></li><li class="nav-item level2 nav-1-2-8 classic"><a href="https://www.terrapinlogo.com/products/bundles/blue-ttr.html"><span>Blue Connection</span></a></li><li class="nav-item level2 nav-1-2-9 last nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bundles.html"><span>More...</span><span class="caret"></span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-1-2-9-1 first classic"><a href="https://www.terrapinlogo.com/products/bundles/more/probot-6.html"><span>Pro-Bot Six Pack</span></a></li><li class="nav-item level3 nav-1-2-9-2 classic"><a href="https://www.terrapinlogo.com/products/bundles/more/inobot-6.html"><span>InO-Bot Six Pack</span></a></li><li class="nav-item level3 nav-1-2-9-3 classic"><a href="https://www.terrapinlogo.com/products/bundles/more/makerspace.html"><span>Makerspace Bundle</span></a></li><li class="nav-item level3 nav-1-2-9-4 classic"><a href="https://www.terrapinlogo.com/products/bundles/more/trio.html"><span>Robot Trio</span></a></li><li class="nav-item level3 nav-1-2-9-5 last classic"><a href="https://www.terrapinlogo.com/products/bundles/more/duo.html"><span>Robot Duo</span></a></li></ul></li></ul></li><li class="nav-item level1 nav-1-3 nav-item--only-subcategories parent"><a href="#" class="no-click"><span>Terrapin Logo</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-3-10 first classic"><a href="https://www.terrapinlogo.com/products/logo/logo.html"><span>Terrapin Logo</span></a></li><li class="nav-item level2 nav-1-3-11 last classic"><a href="https://www.terrapinlogo.com/products/logo/logo-user-manual.html"><span>Logo User Manual</span></a></li></ul></li><li class="nav-item level1 nav-1-4 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/microscopes.html"><span>Digital Microscopes</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-4-12 first classic"><a href="https://www.terrapinlogo.com/products/microscopes/easi-scope-usb.html"><span>Easi-Scope (USB)</span></a></li><li class="nav-item level2 nav-1-4-13 classic"><a href="https://www.terrapinlogo.com/products/microscopes/easi-scope-wireless-1.html"><span>Easi-Scope (Wireless)</span></a></li><li class="nav-item level2 nav-1-4-14 classic"><a href="https://www.terrapinlogo.com/products/microscopes/easi-scope-usb-6.html"><span>Easi-Scope (USB) Six Pack</span></a></li><li class="nav-item level2 nav-1-4-15 last classic"><a href="https://www.terrapinlogo.com/products/microscopes/easi-scope-wireless-6.html"><span>Easi-Scope (Wireless) Six Pack</span></a></li></ul></li><li class="nav-item level1 nav-1-5 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories.html"><span>Bee-Bot/Blue-Bot Accessories</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-5-16 first nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats.html"><span>Learning Mats</span><span class="caret"></span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-1-5-16-6 first classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats/card.html"><span>Card Mat</span></a></li><li class="nav-item level3 nav-1-5-16-7 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats/alphabet.html"><span>Alphabet Mats</span></a></li><li class="nav-item level3 nav-1-5-16-8 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats/baseball.html"><span>Baseball Mat</span></a></li><li class="nav-item level3 nav-1-5-16-9 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats/coin.html"><span>Coins (U.S. or Canadian)</span></a></li><li class="nav-item level3 nav-1-5-16-10 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats/community.html"><span>Community Mat</span></a></li><li class="nav-item level3 nav-1-5-16-11 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/mats/cvc-words.html"><span>CVC Words Mat</span></a></li><li class="nav-item level3 nav-1-5-16-12 last classic"><a href="https://www.terrapinlogo.com/products/bee-bot-blue-bot-accessories/mats.html"><span>More...</span></a></li></ul></li><li class="nav-item level2 nav-1-5-17 nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/cards.html"><span>Cards</span><span class="caret"></span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-1-5-17-13 first classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/cards/command.html"><span>Command Cards</span></a></li><li class="nav-item level3 nav-1-5-17-14 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/cards/cards-alphabet.html"><span>Alphabet Cards</span></a></li><li class="nav-item level3 nav-1-5-17-15 last classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/cards/cvc-word-cards-1.html"><span>CVC Word Cards</span></a></li></ul></li><li class="nav-item level2 nav-1-5-18 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/dock.html"><span>Docking Station</span></a></li><li class="nav-item level2 nav-1-5-19 nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/jackets.html"><span>Jackets</span><span class="caret"></span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-1-5-19-16 first classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/jackets/pusher-jackets-2.html"><span>Pusher Jackets</span></a></li><li class="nav-item level3 nav-1-5-19-17 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/jackets/pen-holder-1.html"><span>Pen Holder Jackets</span></a></li><li class="nav-item level3 nav-1-5-19-18 last classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/jackets/bee-signer-jackets-1.html"><span>&quot;Bee-Signer&quot; Jackets</span></a></li></ul></li><li class="nav-item level2 nav-1-5-20 last nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bee-bot-blue-bot-accessories.html"><span>More...</span><span class="caret"></span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-1-5-20-19 first classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/more/backpack.html"><span>Backpack</span></a></li><li class="nav-item level3 nav-1-5-20-20 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/more/3d-community-kit.html"><span>3D Community Construction Kit</span></a></li><li class="nav-item level3 nav-1-5-20-21 classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/more/step-ruler.html"><span>Step Ruler 20-Pack</span></a></li><li class="nav-item level3 nav-1-5-20-22 last classic"><a href="https://www.terrapinlogo.com/products/bee-blue-accessories/more/charger.html"><span>Six-Bot USB Charger</span></a></li></ul></li></ul></li><li class="nav-item level1 nav-1-6 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories.html"><span>Pro-Bot/InO-Bot Accessories</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-6-21 first nav-item--parent classic nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/mats.html"><span>Learning Mats</span><span class="caret"></span></a><span class="opener"></span><ul class="level2 nav-submenu nav-panel--dropdown nav-panel"><li class="nav-item level3 nav-1-6-21-23 first classic"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/mats/route-mat-1.html"><span>Route Mat</span></a></li><li class="nav-item level3 nav-1-6-21-24 classic"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/mats/clear.html"><span>Guard Mats (clear)</span></a></li><li class="nav-item level3 nav-1-6-21-25 last classic"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/mats/dry-erase-mat-1.html"><span>Dry Erase Mat</span></a></li></ul></li><li class="nav-item level2 nav-1-6-22 classic"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/pen-pack.html"><span>Robot Pen Pack</span></a></li><li class="nav-item level2 nav-1-6-23 classic"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/dry-erase-accessories.html"><span>Dry Erase Accessory Set</span></a></li><li class="nav-item level2 nav-1-6-24 last classic"><a href="https://www.terrapinlogo.com/products/pro-ino-accessories/six-bot-usb-charger.html"><span>Six-Bot USB Charger</span></a></li></ul></li><li class="nav-item level1 nav-1-7 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/books-curriculum.html"><span>Curriculum</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-7-25 first classic"><a href="https://www.terrapinlogo.com/products/books-curriculum/bee-bot-lessons.html"><span>Bee-Bot Lessons</span></a></li><li class="nav-item level2 nav-1-7-26 last classic"><a href="https://www.terrapinlogo.com/products/books-curriculum/problem-solving-with-bee-bot.html"><span>Problem-Solving with Bee-Bot</span></a></li></ul></li><li class="nav-item level1 nav-1-8 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/scope-accessories.html"><span>Microscope Accessories</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-8-27 first classic"><a href="https://www.terrapinlogo.com/products/scope-accessories/containers.html"><span>Collection Containers</span></a></li><li class="nav-item level2 nav-1-8-28 last classic"><a href="https://www.terrapinlogo.com/products/scope-accessories/slides.html"><span>LiveSlides&reg; Kits</span></a></li></ul></li><li class="nav-item level1 nav-1-9 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/bluebot-accessories.html"><span>Blue-Bot Only Accessories</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-9-29 first classic"><a href="https://www.terrapinlogo.com/products/bluebot-accessories/ttr.html"><span>TacTile Reader</span></a></li><li class="nav-item level2 nav-1-9-30 classic"><a href="https://www.terrapinlogo.com/products/bluebot-accessories/ttr-tiles-standard.html"><span>Standard Tile Pack</span></a></li><li class="nav-item level2 nav-1-9-31 last classic"><a href="https://www.terrapinlogo.com/products/bluebot-accessories/ttr-tiles-extension.html"><span>Extension Tile Pack</span></a></li></ul></li><li class="nav-item level1 nav-1-10 nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/replacements.html"><span>Replacements</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-10-32 first classic"><a href="https://www.terrapinlogo.com/products/replacements/cables.html"><span>USB Charging Cables</span></a></li><li class="nav-item level2 nav-1-10-33 classic"><a href="https://www.terrapinlogo.com/products/replacements/docking-station-power-supply.html"><span>Docking Station Power Supply</span></a></li><li class="nav-item level2 nav-1-10-34 last classic"><a href="https://www.terrapinlogo.com/products/replacements/pro-coin-battery.html"><span>Pro-Bot Coin Battery</span></a></li></ul></li><li class="nav-item level1 nav-1-11 last nav-item--only-subcategories parent"><a href="https://www.terrapinlogo.com/products/holiday-specials.html"><span>Holiday Specials</span><span class="caret"></span></a><span class="opener"></span><ul class="level1 nav-submenu nav-panel"><li class="nav-item level2 nav-1-11-35 first classic"><a href="https://www.terrapinlogo.com/products/holiday-specials/bee-bot-holiday-special.html"><span>Bee-Bot Basic Holiday Special</span></a></li><li class="nav-item level2 nav-1-11-36 classic"><a href="https://www.terrapinlogo.com/products/holiday-specials/blue-bot-holiday-special.html"><span>Blue-Bot Holiday Special</span></a></li><li class="nav-item level2 nav-1-11-37 classic"><a href="https://www.terrapinlogo.com/products/holiday-specials/pro-bot-holiday-special.html"><span>Pro-Bot Holiday Special</span></a></li><li class="nav-item level2 nav-1-11-38 classic"><a href="https://www.terrapinlogo.com/products/holiday-specials/ino-bot-holiday-special-1.html"><span>InO-Bot Holiday Special</span></a></li><li class="nav-item level2 nav-1-11-39 last classic"><a href="https://www.terrapinlogo.com/products/holiday-specials/easi-scope-holiday-special.html"><span>Easi-Scope Holiday Special</span></a></li></ul></li></ul></div></div></div></li><li class="nav-item level0 nav-2 level-top classic"><a href="https://www.terrapinlogo.com/support.html" class="level-top"><span>Support</span></a></li><li class="nav-item level0 nav-3 level-top classic"><a href="https://www.terrapinlogo.com/stories.html" class="level-top"><span>Stories</span></a></li><li class="nav-item level0 nav-4 level-top last classic"><a href="https://www.terrapinlogo.com/contact-us.html" class="level-top"><span>Contact Us</span></a></li>                    
+                                    
+                                        <ul>
+<li class="nav-item level0 level-top right"><a class="level-to" href="/customer/account/login" title="Manage Account"> <span class="ic ic-user"></span> </a></li>
+</ul>                        
+        </ul>
+    </nav>
+
+    <div class="nav-border-bottom"></div>
+
+</div> <!-- end: navi-wrapper -->
+<script type="text/javascript">
+//<![CDATA[
+
+    var topMenuContainer = jQuery('#mainmenu');
+    var topMenuSettings = {
+        mobileMenuThreshold: 960        , isVerticalLayout: false        
+        , mode: 0                , initVerticalMenuCollapsed: true        , outermostContainer: jQuery('.hp-blocks-holder')        , fullWidthDdContainer: jQuery('.hp-blocks-holder')    };
+    var theTopMenu = topMenuContainer.ultramegamenu(topMenuSettings).data("infortis-ultramegamenu");
+    theTopMenu.enableDropdowns();
+
+        
+        jQuery(function($) {
+
+            var itemsList = topMenuContainer.children('ul');
+
+            // Non-clickable links
+            itemsList.on('click', '.no-click', function(e) {
+                e.preventDefault();
+            });
+
+        }); //end: on document ready
+
+        jQuery(window).on("load", function() {
+
+            var menubar = topMenuContainer;
+            var isTouchDevice = ('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0);
+            if (isTouchDevice)
+            {
+                menubar.on('click', 'a', function(e) {
+
+                    var link = jQuery(this);
+                    if (!menubar.hasClass('nav-mobile') && link.parent().hasClass('nav-item--parent'))
+                    {
+                        if (!link.hasClass('ready'))
+                        {
+                            e.preventDefault();
+                            menubar.find('.ready').removeClass('ready');
+                            link.parents('li').children('a').addClass('ready');
+                        }
+                    }
+
+                }); //end: on click
+            } //end: if isTouchDevice
+
+        }); //end: on load
+
+    
+//]]>
+</script>
+</div>
+        </div>
+    </div></div>
+                                                                                    </div> <!-- end: central column -->
+                    
+                                        
+                </div> <!-- end: hp-blocks-holder -->
+
+            </div> <!-- end: inner-container -->
+        </div> <!-- end: header-primary -->
+    </div> <!-- end: header-primary-container -->
+
+    
+</div> <!-- end: header-container3 -->
+</div> <!-- end: header-container2 -->
+</div> <!-- end: header-container -->
+<script type="text/javascript">
+//<![CDATA[
+
+    var theHeaderContainer = jQuery('#header-container');
+
+        
+        var smartHeaderSettings = {
+            cartBlockSelector: '#mini-cart'
+            , dropdownBlockClass: 'dropdown'
+        };
+        theHeaderContainer.smartheader(smartHeaderSettings);
+
+    
+    jQuery(function($) {
+
+        
+            //Skip Links
+            var skipContents = $('.skip-content');
+            var skipLinks = $('.skip-link');
+            skipLinks.on('click', function (e) {
+                e.preventDefault();
+
+                var self = $(this);
+                var target = self.attr('href');
+
+                //Get target element
+                var elem = $(target);
+
+                //Check if stub is open
+                var isSkipContentOpen = elem.hasClass('skip-active') ? 1 : 0;
+
+                //Hide all stubs
+                skipLinks.removeClass('skip-active');
+                skipContents.removeClass('skip-active');
+
+                //Toggle stubs
+                if (isSkipContentOpen) {
+                    self.removeClass('skip-active');
+                } else {
+                    self.addClass('skip-active');
+                    elem.addClass('skip-active');
+                }
+            });
+
+        
+        
+            var stickyHeaderSettings = {
+                stickyThreshold: 960                , cartBlockSelector: '#mini-cart'
+            };
+            theHeaderContainer.stickyheader(stickyHeaderSettings);
+
+        
+    }); //end: on document ready
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+    //Expose the header container
+    var jsHeaderContainerObject = document.getElementById("header-container");
+    if (jsHeaderContainerObject.style.display == 'none')
+    {
+        jsHeaderContainerObject.style.display = "block";
+        jsHeaderContainerObject.classList.add("js-shown"); ///
+    }
+
+//]]>
+</script>
+        <div class="main-container col1-layout">
+            <div class="main-top-container"></div>
+            <div class="main container">
+                <div class="inner-container">
+                    <div class="breadcrumbs">
+    <ul>
+                                    <li class="home" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <a href="https://www.terrapinlogo.com/" title="Go to Home Page" itemprop="url"><span itemprop="title">Home</span></a>
+            
+                                <span class="sep"></span>
+                                
+                </li>
+                                    <li class="product">
+                    <span class="last-crumb">Shapes, Colors, and Size Mat</span>
+            
+                                
+                </li>
+            </ul>
+</div>
+                    <div class="preface"></div>
+                    <div id="page-columns" class="columns">
+                        <div class="column-main">
+                                                        <script type="text/javascript">
+	var optionsPrice = new Product.OptionsPrice([]);
+</script>
+<div id="messages_product_view"></div>
+<div class="product-view nested-container" itemscope itemtype="http://schema.org/Product">
+
+
+
+	<div class="product-img-column grid12-3 ">
+
+		
+
+
+
+<div class="img-box img-box-style1">
+
+
+        
+                
+        <p class="product-image zoom-inside" style="max-width: 363px;">
+        
+            <a  href="https://www.terrapinlogo.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/a/mat__shapes__web.png"
+                class="cloud-zoom product-image-gallery"                 id="zoom1"
+                rel="position:'inside',showTitle:false,lensOpacity:0.5,smoothMove:3,zoomWidth:427,zoomHeight:275,adjustX:0,adjustY:0">
+
+                <img id="image-main"                     class="gallery-image visible"                     src="https://www.terrapinlogo.com/media/catalog/product/cache/1/image/363x/040ec09b1e35df139433887a97daa66f/m/a/mat__shapes__web.png"
+                    alt="Shapes, Colors, and Size Mat"
+                    title="Shapes, Colors, and Size Mat"
+                    itemprop="image" />
+            </a>
+            
+                                            <a id="zoom-btn" class="lightbox-group zoom-btn-small" href="https://www.terrapinlogo.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/a/mat__shapes__web.png" title="Shapes, Colors, and Size Mat">Zoom</a>
+                
+                    </p>
+    
+    
+
+
+
+        <div class="more-images slider-arrows3 itemslider-thumbnails count-1">
+        <div id="itemslider-zoom" class="thumbnails slides">
+        
+                        
+                                                                    <div class="item" >
+                        <a href="https://www.terrapinlogo.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/m/a/mat__shapes__web.png" class="cloud-zoom-gallery lightbox-group" title="Shapes, Colors, and Size Mat"
+                            rel="useZoom:'zoom1', smallImage: 'https://www.terrapinlogo.com/media/catalog/product/cache/1/image/363x/040ec09b1e35df139433887a97daa66f/m/a/mat__shapes__web.png'">
+                                                            <img class="lazyOwl" data-src="https://www.terrapinlogo.com/media/catalog/product/cache/1/thumbnail/65x/040ec09b1e35df139433887a97daa66f/m/a/mat__shapes__web.png" alt="Shapes, Colors, and Size Mat"/>
+                                                    </a>
+                    </div>
+                                    
+                </div>
+    </div> <!-- end: more-images -->
+</div> <!-- end: img-box -->
+
+
+
+		<script type="text/javascript">
+        jQuery(function($) {
+
+        	//Zoom button for main image
+        	$zoomButton = $("#zoom-btn");
+            
+            //Init lightbox
+            $(".lightbox-group").colorbox({
+			                rel:		'lightbox-group',
+			                opacity:	0.5,
+                speed:		300,
+                current:	'{current} / {total}',
+                previous: '',
+                next: '',
+                close: '' //No comma here
+				, maxWidth:'95%', maxHeight:'95%'			});
+			
+			//Product thumbnails - remove first one from gallery, it's already included in gallery by "zoom" button
+							$(".cloud-zoom-gallery").first().removeClass("cboxElement");
+						
+			//Remove clicked thumbnail from gallery, it's already included in gallery by "zoom" button
+			$(".cloud-zoom-gallery").click(function() {
+				$zoomButton
+					.attr('href', $(this).attr('href'))
+					.attr('title', $(this).attr('title'));
+			
+									//First add gallery class to all thumbnails
+					$(".cloud-zoom-gallery").each(function() {
+						$(this).addClass("cboxElement");
+					});
+					$(this).removeClass("cboxElement");
+							});
+
+			//On image change
+			$(document).on('product-media-manager-image-updated', function(e, data) {
+
+				var img = data.img;
+
+				//Add new image's URL to the zoom button's href attribute
+				$zoomButton.attr('href', img.attr('src'));
+				$zoomButton.attr('title', '');
+
+									$(".cloud-zoom-gallery").each(function() {
+						$(this).addClass("cboxElement");
+					});
+				
+			}); //end: on event
+            
+        });
+    </script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+    jQuery(function($) {
+
+        var $cz = $('.cloud-zoom');
+        var czInstance = $('.cloud-zoom').data('zoom');
+
+        //On image change
+        $(document).on('product-media-manager-image-updated', function(e, data) {
+
+            var img = data.img;
+
+            czInstance.destroy();
+
+            //Add new image's URL to the CloudZoom element's href attribute
+            $cz.attr('href', img.attr('src'));
+
+            //Remove mousetrap
+            var $mt = $('.mousetrap');
+            $mt.unbind();
+            $mt.remove();
+            $mt = null;
+
+            //Reinitialize CloudZoom
+            $cz.CloudZoom();
+
+        }); //end: on event
+
+        //On resize
+        var t;
+        $(window).resize(function() {
+            clearTimeout(t); 
+            t = setTimeout(function() {
+
+                czInstance.destroy();
+
+                //Remove mousetrap and other elements
+                var $mt = $('.mousetrap');
+                $mt.unbind();
+                $mt.remove();
+                $mt = null;
+                $('.cloud-zoom-lens').remove();
+                $('#cloud-zoom-big').remove();
+
+                //Reinitialize CloudZoom
+                $cz.CloudZoom();
+
+            }, 200);
+        });
+
+            var owl = $('#itemslider-zoom');
+        owl.owlCarousel({
+
+            mouseDrag: false,
+
+                    lazyLoad: true,
+        
+                    itemsCustom: [ [0, 1] ],
+            responsiveRefreshRate: 50,
+        
+                    slideSpeed: 200,
+        
+        
+                    autoPlay: 5000,
+        
+            stopOnHover: true,
+
+                    rewindNav: true,
+            rewindSpeed: 600,
+        
+            pagination: false,
+            navigation: true,
+            navigationText: false
+
+        }); //end: owl
+    
+    });
+//]]>
+</script>
+
+				
+	</div>
+
+
+
+	<div class="product-primary-column product-shop grid12-6">
+
+		<div class="product-name">
+			<h1 itemprop="name">Shapes, Colors, and Size Mat</h1>
+		</div>
+		
+		
+					<div class="short-description"><div class="std" itemprop="description"><p>The shapes, colors, and size mat combines mathematics with pattern, shape, and color recognition to allow Bee-Bot or Blue-Bot to introduce and explore these skills. Each colorful shape is one step away from the next. Send Bee-Bot or Blue-Bot on its way to match or contrast colors, shapes and sizes.<br />
+</p><br />
+<a href="/emu/beebot.html?beebot_mat_shapes" target="_blank"><br />
+<img src="https://www.terrapinlogo.com/media/beebot/emulator.png" class="intext-left" height="45" />Click to see this mat in action in the Bee-Bot emulator in your browser!</a></div></div>
+		
+		
+		
+								<meta itemprop="productID" content="sku:beebot_mat_shapes" />		
+				
+		
+		<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+			<div class="product-type-data">
+
+									
+		    <p class="availability in-stock">Availability: <span>In stock</span></p>
+	    <meta itemprop="availability" content="http://schema.org/InStock">
+	
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-15">
+                                            <span class="price">$29.95</span>                                    </span>
+                        
+        </div>
+
+				
+			</div>
+			
+			<meta itemprop="priceCurrency" content="USD" /><meta itemprop="price" content="29.95" />		</div> 
+				
+			<form action="https://www.terrapinlogo.com/checkout/cart/add/uenc/aHR0cHM6Ly93d3cudGVycmFwaW5sb2dvLmNvbS9zaGFwZXMtY29sb3JzLWFuZC1zaXplLW1hdC5odG1s/product/15/form_key/ixXTNU6eeyNR3jGZ/" method="post" id="product_addtocart_form">
+				<input name="form_key" type="hidden" value="ixXTNU6eeyNR3jGZ" />
+				<div class="no-display">
+					<input type="hidden" name="product" value="15" />
+					<input type="hidden" name="related_product" id="related-products-field" value="" />
+				</div>
+									<div class="add-to-box">
+						    <div class="add-to-cart left-side">
+                    <div class="qty-wrapper">
+                <label for="qty">Qty:</label>
+                <input type="text" name="qty" id="qty" maxlength="12" value="1" title="Qty" class="input-text qty" />
+            </div>
+                <button type="button" title="Add to Cart" id="product-addtocart-button" class="button btn-cart" onclick="productAddToCartForm.submit(this)"><span><span>Add to Cart</span></span></button>
+    </div>
+    <div class="paypal-wrapper"></div>
+    <script type="text/javascript">
+        //<![CDATA[
+        jQuery(function($) {
+
+            function qtyAdd(a, b, precision) {
+                var x = Math.pow(10, precision || 2);
+                return (Math.round(a * x) + Math.round(b * x)) / x;
+            }
+            function qtySubtract(a, b, precision) {
+                var x = Math.pow(10, precision || 2);
+                return (Math.round(a * x) - Math.round(b * x)) / x;
+            }
+
+            // Insert plus/minus buttons
+            $('.qty-wrapper').append('<div class="qty-buttons-wrapper"><div class="qty-button increase"></div><div class="qty-button decrease"></div></div>');
+
+            // Initialize plus/minus buttons
+            $('.qty-button').on('click', function() {
+
+                var $button = $(this);
+                var $input = $button.parent().parent().find('input');
+                var oldValue = $input.val();
+                var newVal = 0;
+
+                if (isNaN(oldValue))
+                {
+                    $input.css('color', 'red');
+                }
+                else
+                {
+                    if ($button.hasClass('increase'))
+                    {
+                        newVal = qtyAdd(parseFloat(oldValue), 1, 4);
+                        $input.css('color', '');
+                    }
+                    else 
+                    {
+                        var candidateNewValue = qtySubtract(parseFloat(oldValue), 1, 4);
+                        if (oldValue > 0 && candidateNewValue > 0) 
+                        {
+                            newVal = candidateNewValue;
+                        }
+                        else
+                        {
+                            newVal = 0;
+                            $input.css('color', 'red');
+                        }
+                    }
+
+                    $input.val(newVal);
+                }
+
+            });
+
+        });
+        //]]>
+    </script>
+					</div>
+											</form>
+
+		
+				
+					<div class="action-box clearer">
+				<ul class="add-to-links">
+
+	<li>
+        <a class="link-compare feature feature-icon-hover first" href="https://www.terrapinlogo.com/catalog/product_compare/add/product/15/uenc/aHR0cHM6Ly93d3cudGVycmFwaW5sb2dvLmNvbS9zaGFwZXMtY29sb3JzLWFuZC1zaXplLW1hdC5odG1s/form_key/ixXTNU6eeyNR3jGZ/" title="Add to Compare">
+			<span class="ic ic-compare ib icon-color-productview"></span>
+			<span class="label">Add to Compare</span>
+		</a>
+	</li>
+
+</ul>			</div>
+		
+		
+		
+		
+	</div>
+
+
+
+	
+		<div class="product-secondary-column grid12-3 custom-sidebar-right">
+			<div class="inner">
+
+				
+				<div class="box-collateral box-related"><div class="block block-related block-related-thumbnails">
+    <strong class="section-title padding-right">Related</strong>
+    <div class="itemslider-wrapper itemslider-related-wrapper slider-arrows1 slider-arrows1-pos-top-right slider-pagination1">
+        <div id="itemslider-related-multi" class="itemslider ">
+                                    <div class="item">
+                    <ul class="clearer">
+            
+            <li class="product">
+                <a class="product-image" href="https://www.terrapinlogo.com/dice-mat.html" title="Dice Mat">
+                    <img src="https://www.terrapinlogo.com/media/catalog/product/cache/1/thumbnail/100x100/9df78eab33525d08d6e5fb8d27136e95/d/i/dice_mat2.jpg" alt="Dice Mat" />
+                </a>
+                <div class="product-details">
+                    <strong class="product-name"><a href="https://www.terrapinlogo.com/dice-mat.html" title="Dice Mat">Dice Mat</a></strong>
+                    
+                                        
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-12-related">
+                                            <span class="price">$49.95</span>                                    </span>
+                        
+        </div>
+
+                    
+                                    </div> <!-- end: product-details -->
+            </li>
+
+                                
+            <li class="product">
+                <a class="product-image" href="https://www.terrapinlogo.com/number-line.html" title="Number Line">
+                    <img src="https://www.terrapinlogo.com/media/catalog/product/cache/1/thumbnail/100x100/9df78eab33525d08d6e5fb8d27136e95/n/u/number_line.jpg" alt="Number Line" />
+                </a>
+                <div class="product-details">
+                    <strong class="product-name"><a href="https://www.terrapinlogo.com/number-line.html" title="Number Line">Number Line</a></strong>
+                    
+                                        
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-13-related">
+                                            <span class="price">$29.95</span>                                    </span>
+                        
+        </div>
+
+                    
+                                    </div> <!-- end: product-details -->
+            </li>
+
+                                </ul> <!-- end: list of products -->
+                </div> <!-- end: slider item -->
+                            </div> <!-- end: itemslider -->
+    </div> <!-- end: itemslider-wrapper -->
+    <script type="text/javascript">
+    //<![CDATA[
+        jQuery(function($) {
+
+            var owl = $('#itemslider-related-multi');
+            owl.owlCarousel({
+
+                            itemsCustom: [ [0, 1], [480, 2], [768, 1] ],
+                responsiveRefreshRate: 50,
+            
+                            slideSpeed: 400,
+            
+                            paginationSpeed: 500,
+            
+                            scrollPerPage: true,
+            
+                            autoPlay: 6000,
+            
+                            stopOnHover: true,
+            
+                            rewindNav: true,
+                rewindSpeed: 600,
+            
+                            pagination: false,
+            
+                navigation: true,
+                navigationText: false
+
+            }); //end: owl
+
+        });
+    //]]>
+    </script>
+
+        
+</div> <!-- end: block --></div>
+									<div class="feature-wrapper bottom-border">			</div>
+				
+				
+				
+				
+			</div>
+		</div>
+
+	
+
+
+	
+
+	
+	<script type="text/javascript">
+	//<![CDATA[
+		var productAddToCartForm = new VarienForm('product_addtocart_form');
+		productAddToCartForm.submit = function(button, url) {
+			if (this.validator.validate()) {
+				var form = this.form;
+				var oldUrl = form.action;
+
+				if (url) {
+				   form.action = url;
+				}
+				var e = null;
+				try {
+					this.form.submit();
+				} catch (e) {
+				}
+				this.form.action = oldUrl;
+				if (e) {
+					throw e;
+				}
+
+				if (button && button != 'undefined') {
+					button.disabled = true;
+				}
+			}
+		}.bind(productAddToCartForm);
+
+		productAddToCartForm.submitLight = function(button, url){
+			if(this.validator) {
+				var nv = Validation.methods;
+				delete Validation.methods['required-entry'];
+				delete Validation.methods['validate-one-required'];
+				delete Validation.methods['validate-one-required-by-name'];
+				if (this.validator.validate()) {
+					if (url) {
+						this.form.action = url;
+					}
+					this.form.submit();
+				}
+				Object.extend(Validation.methods, nv);
+			}
+		}.bind(productAddToCartForm);
+	//]]>
+	</script>
+
+
+
+		<div class="product-lower-primary-column box-additional grid12-9">
+
+		<div class="collateral-container">
+
+    
+                    <div class="collateral-block collateral-block--product_description_wrapper">
+
+                                <div class="box-collateral box-description"><strong class="section-title">Details</strong>
+    <div class="std">
+        The shapes, colors, and size mat is made of washable vinyl and measures approximately 24" by 24" (60 cm. by 60 cm.)    </div></div>                
+            </div>
+        
+    
+</div>
+		
+		
+		
+	</div>
+
+
+
+		
+		
+	
+
+
+		
+
+
+</div> <!-- end: product-view -->
+
+<script type="text/javascript">
+    var lifetime = 3600;
+    var expireAt = Mage.Cookies.expires;
+    if (lifetime > 0) {
+        expireAt = new Date();
+        expireAt.setTime(expireAt.getTime() + lifetime * 1000);
+    }
+    Mage.Cookies.set('external_no_cache', 1, expireAt);
+</script>
+                        </div>
+                    </div>
+                    <div class="postscript"></div>
+                </div>
+            </div>
+            <div class="main-bottom-container"></div>
+        </div>
+        <div class="footer-container">
+<div class="footer-container2">
+<div class="footer-container3">
+
+	
+	
+		
+		
+	<div class="footer-primary-container section-container">
+		<div class="footer-primary footer container">
+			<div class="inner-container">
+
+				
+								
+								<div class="footer-primary-bottom grid12-12">
+					<div class="clearer">
+					
+													<div class="item item-left clearer block_footer_primary_bottom_left">
+								<span style="line-height:36px">800-774-LOGO (5646) or +1-508-487-8181 (<i>international)</i> <b>|</b> Fax: 617-302-9778</span>
+							</div>
+												
+													<div class="item item-right clearer block_footer_primary_bottom_right">
+								<a href="https://www.facebook.com/BeeBot.us" title="Follow us on Facebook" target="_blank"><img src="https://www.terrapinlogo.com/media/icons/fb36.png" alt="Follow us on Facebook" width="36" style="margin-right: 10px"/></a>
+ <button type="submit" data-enabled="enabled "class="button btn-inline" onclick="showNewsletter()">Subscribe to the Turtle Talk Newsletter</button>
+<div id="subscribe-newsletter" style="position: absolute; top: 50%; left: 50%; transform:translate(-50%,-50%); z-index:100000; width: 400px; border: 1px solid gray; display:none">
+<!-- Begin Constant Contact Inline Form Code -->
+<div class="ctct-inline-form" data-form-id="88c44992-7862-4975-af8e-e306787122b8"></div>
+<!-- End Constant Contact Inline Form Code -->
+</div>
+<script>
+function showNewsletter() {
+   function scrollToTop() {
+      document.body.scrollTop = 0; // For Safari
+      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+   }
+   var div = jQuery("#subscribe-newsletter .ctct-form-container");
+   if (jQuery("#subscribe-close", div).length === 0) {
+      var btn = jQuery('<div id="subscribe-close" style="float:right; padding:10px;"><img src="https://static.ctctcdn.com/contacts/images/signup-tools/ctct-close-x.svg" class="ctct-X"></div>');
+      div.prepend(btn);
+      btn.on("click", function() {
+          jQuery('#subscribe-newsletter').hide();
+      });
+   }
+   scrollToTop();
+   jQuery('#subscribe-newsletter').show();
+}
+</script>
+<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "6acd049d1afd6f01b2409f323d6bc50e"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+<!-- End Constant Contact Active Forms -->
+							</div>
+												
+												
+					</div> 
+				</div> <!-- end: footer-primary-bottom -->
+							
+			</div> <!-- end: inner-container -->
+		</div> <!-- end: footer-primary -->
+	</div>
+	
+	
+		
+	
+	
+	
+	<div class="footer-bottom-container section-container">
+		<div class="footer-bottom footer container">
+			<div class="inner-container">
+
+				<div class="clearer">
+				
+										
+											<div class="item item-right block_footer_payment"><!--img src="https://www.terrapinlogo.com/media/wysiwyg/infortis/ultimo/custom/payment.gif" alt="Payment methods" title="Sample image with payment methods" /-->
+<p><img title="Accepted payment methods" src="https://www.terrapinlogo.com/media/store/payment.gif" alt="Payment methods" /><img src="data:image/png;base64,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" alt="" /></p></div>
+										
+					
+				</div> <!-- end: footer-bottom section -->
+
+			</div> <!-- end: inner-container -->
+		</div> <!-- end: footer-bottom -->
+	</div>
+
+		
+	<a id="scroll-to-top" class="ic ic-up" href="#top"></a>
+
+</div> <!-- end: footer-container3 -->
+</div> <!-- end: footer-container2 -->
+</div> <!-- end: footer-container -->
+
+                
+<script type="text/javascript">
+	//<![CDATA[
+
+			var gridItemsEqualHeightApplied = false;
+	function setGridItemsEqualHeight($)
+	{
+		var $list = $('.category-products-grid');
+		var $listItems = $list.children();
+
+		var centered = $list.hasClass('centered');
+		var gridItemMaxHeight = 0;
+		$listItems.each(function() {
+			
+			$(this).css("height", "auto"); 			var $object = $(this).find('.actions');
+
+						if (centered)
+			{
+				var objectWidth = $object.width();
+				var availableWidth = $(this).width();
+				var space = availableWidth - objectWidth;
+				var leftOffset = space / 2;
+				$object.css("padding-left", leftOffset + "px"); 			}
+
+						var bottomOffset = parseInt($(this).css("padding-top"));
+			if (centered) bottomOffset += 10;
+			$object.css("bottom", bottomOffset + "px");
+
+						if ($object.is(":visible"))
+			{
+								var objectHeight = $object.height();
+				$(this).css("padding-bottom", (objectHeight + bottomOffset) + "px");
+			}
+
+						
+			gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
+		});
+
+		//Apply max height
+		$listItems.css("height", gridItemMaxHeight + "px");
+		gridItemsEqualHeightApplied = true;
+
+	}
+	
+
+
+	jQuery(function($) {
+
+        // Drop-down
+        var ddBlockSelector = '.dropdown';
+        var ddOpenTimeout;
+        var dMenuPosTimeout;
+        var DD_DELAY_IN = 200;
+        var DD_DELAY_OUT = 0;
+        var DD_ANIMATION_IN = 0;
+        var DD_ANIMATION_OUT = 0;
+
+        $(document).on('mouseenter touchstart', ddBlockSelector, function(e) {
+
+            var dd = $(this);
+            var ddHeading = dd.children('.dropdown-heading');
+            var ddContent = dd.children('.dropdown-content');
+
+            // If dd is not opened yet (or not initialized yet)
+            var isDdOpened = dd.data('ddOpened');
+            if (isDdOpened === false || isDdOpened === undefined)
+            {
+                // Clear old position of dd menu
+                ddContent.css("left", "");
+                ddContent.css("right", "");
+
+                // Show dd menu
+                clearTimeout(ddOpenTimeout);
+                ddOpenTimeout = setTimeout(function() {
+                    
+                    dd.addClass('open');
+
+                    // Set dd open flag
+                    dd.data('ddOpened', true);
+                    
+                }, DD_DELAY_IN);
+
+                ddContent.stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
+                
+                // Set new position of dd menu.
+                // This code is delayed the same amount of time as dd animation.
+                clearTimeout(dMenuPosTimeout);
+                dMenuPosTimeout = setTimeout(function() {
+
+                    if (ddContent.offset().left < 0)
+                    {
+                        var space = dd.offset().left; // Space available on the left of dd
+                        ddContent.css("left", (-1)*space);
+                        ddContent.css("right", "auto");
+                    }
+                
+                }, DD_DELAY_IN);
+
+            } // end: dd is not opened yet
+
+        }).on('mouseleave', ddBlockSelector, function(e) {
+
+            var dd = $(this);
+            var ddContent = dd.children('.dropdown-content');
+
+            clearTimeout(ddOpenTimeout); // Clear, to close dd on mouseleave
+            ddContent.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
+            if (ddContent.is(":hidden"))
+            {
+                ddContent.hide();
+            }
+            dd.removeClass('open');
+
+            // Clear dd open flag
+            dd.data('ddOpened', false);
+
+            // After hiding, clear the click event flag
+            dd.data('ddClickIntercepted', false);
+
+        }).on('click', ddBlockSelector, function(e) {
+
+            var dd = $(this);
+            var ddHeading = dd.children('.dropdown-heading');
+            var ddContent = dd.children('.dropdown-content');
+
+            // Only if the heading was clicked
+            if ($.contains(ddHeading[0], e.target) || ddHeading.is(e.target))
+            {
+                // Only after the first click already happened, the second click can close the dropdown
+                if (dd.data('ddClickIntercepted'))
+                {
+                    if (dd.hasClass('open'))
+                    {
+                        clearTimeout(ddOpenTimeout); // Clear, to close dd on mouseleave
+                        ddContent.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
+                        if (ddContent.is(":hidden"))
+                        {
+                            ddContent.hide();
+                        }
+                        dd.removeClass('open');
+
+                        // Clear dd open flag
+                        dd.data('ddOpened', false);
+
+                        // After hiding, clear the click event flag
+                        dd.data('ddClickIntercepted', false);
+                    }
+                }
+                else 
+                {
+                    // Set the click event flag
+                    dd.data('ddClickIntercepted', true);
+                }
+            }
+
+        });
+
+
+
+				var windowScroll_t;
+		$(window).scroll(function(){
+			
+			clearTimeout(windowScroll_t);
+			windowScroll_t = setTimeout(function() {
+										
+				if ($(this).scrollTop() > 100)
+				{
+					$('#scroll-to-top').fadeIn();
+				}
+				else
+				{
+					$('#scroll-to-top').fadeOut();
+				}
+			
+			}, 500);
+			
+		});
+		
+		$('#scroll-to-top').click(function(){
+			$("html, body").animate({scrollTop: 0}, 600, "easeOutCubic");
+			return false;
+		});
+		
+		
+		
+						
+						$('.category-products-grid').on('mouseenter', '.item', function() {
+				$(this).find(".display-onhover").fadeIn(400, "easeOutCubic");
+			}).on('mouseleave', '.item', function() {
+				$(this).find(".display-onhover").stop(true).hide();
+			});
+		
+		
+
+
+				$('.products-grid, .products-list').on('mouseenter', '.product-image-wrapper', function() {
+			$(this).find(".alt-img").fadeIn(400, "easeOutCubic");
+		}).on('mouseleave', '.product-image-wrapper', function() {
+			$(this).find(".alt-img").stop(true).fadeOut(400, "easeOutCubic");
+		});
+
+
+
+				$('.fade-on-hover').on('mouseenter', function() {
+			$(this).animate({opacity: 0.75}, 300, 'easeInOutCubic');
+		}).on('mouseleave', function() {
+			$(this).stop(true).animate({opacity: 1}, 300, 'easeInOutCubic');
+		});
+
+
+
+				var dResize = {
+
+			winWidth : 0
+			, winHeight : 0
+			, windowResizeTimeout : null
+
+			, init : function()
+			{
+				dResize.winWidth = $(window).width();
+				dResize.winHeight = $(window).height();
+				dResize.windowResizeTimeout;
+
+				$(window).on('resize', function(e) {
+					clearTimeout(dResize.windowResizeTimeout);
+					dResize.windowResizeTimeout = setTimeout(function() {
+						dResize.onEventResize(e);
+					}, 50);
+				});
+			}
+
+			, onEventResize : function(e)
+			{
+				//Prevent from executing the code in IE when the window wasn't actually resized
+				var winNewWidth = $(window).width();
+				var winNewHeight = $(window).height();
+
+				//Code in this condition will be executed only if window was actually resized
+				if (dResize.winWidth != winNewWidth || dResize.winHeight != winNewHeight)
+				{
+					//Trigger deferred resize event
+					$(window).trigger("themeResize", e);
+
+					//Additional code executed on deferred resize
+					dResize.onEventDeferredResize();
+				}
+
+				//Update window size variables
+				dResize.winWidth = winNewWidth;
+				dResize.winHeight = winNewHeight;
+			}
+
+			, onEventDeferredResize : function() //Additional code, execute after window was actually resized
+			{
+				//Products grid: equal height of items
+									setGridItemsEqualHeight($);
+				
+			}
+
+		}; //end: dResize
+
+		dResize.init();
+
+
+
+	}); //end: on document ready
+	
+	
+
+	jQuery(window).load(function(){
+		
+							setGridItemsEqualHeight(jQuery);
+		
+	}); //end: jQuery(window).load(){...}
+
+
+
+	//]]>
+</script>
+                    <script type="text/javascript">
+            var formsToProtectOnPage = [];
+            var checkedForms = [];
+            var hasFormsChanged = false;
+
+            var aminvisiblecaptchaOnloadCallback = function() {
+                formsToProtect = ["form[action*=\"customer\/account\/createpost\"]","form[action*=\"customer\/account\/loginPost\"]","form[action*=\"customer\/account\/forgotpasswordpost\"]","form[action*=\"customer\/account\/resetpasswordpost\"]","form[action*=\"newsletter\/subscriber\/new\"]","form[action*=\"review\/product\/post\"]","form[action*=\"contacts\/index\/post\"]"];
+                formsToProtect.forEach(function (item) {
+                    var continueWorking = true;
+                    formsSearchedBySelector = $$(item);
+                    checkedForms.forEach(function (element) {
+                        if (element[0] == formsSearchedBySelector[0]) {
+                            continueWorking = false;
+                            return;
+                        }
+                    })
+                    if (formsSearchedBySelector.length != 0 && continueWorking) {
+                        checkedForms.push(formsSearchedBySelector);
+                        formsSearchedBySelector.forEach(function (formToProtect) {
+                            formsToProtectOnPage.push(formToProtect);
+                            hasFormsChanged = true;
+                        });
+                    }
+                });
+
+                if (hasFormsChanged) {
+                    for (var index in formsToProtectOnPage) {
+                        if (formsToProtectOnPage.hasOwnProperty(index)) {
+                            var formToProtectOnPage = formsToProtectOnPage[index];
+                            if ('form' !== formToProtectOnPage.tagName.toLowerCase()) {
+                                formToProtectOnPage = formToProtectOnPage.getElementsByTagName('form');
+                                if (0 < formToProtectOnPage.length) {
+                                    formToProtectOnPage = formToProtectOnPage[0];
+                                } else {
+                                    continue;
+                                }
+                            }
+
+                            var recaptchaBlock = document.createElement('div');
+                            recaptchaBlock.id = 'amasty_recaptcha_' + index;
+                            var buttonsSetsCount = formToProtectOnPage.getElementsByClassName('buttons-set').length;
+                            if (1 > buttonsSetsCount) {
+                                formToProtectOnPage.appendChild(recaptchaBlock);
+                            } else {
+                                recaptchaBlock.className = 'fieldset';
+                                var buttonsSets = formToProtectOnPage.getElementsByClassName('buttons-set');
+
+                                if (2 == buttonsSetsCount) {
+                                    buttonsSets[1].insert({'before': recaptchaBlock});
+                                } else {
+                                    buttonsSets[0].insert({'before': recaptchaBlock});
+                                }
+                            }
+
+                            grecaptcha.render(recaptchaBlock.id, {
+                                'sitekey': '6Lch5qEUAAAAACD_tLAJbxOVeHbbUPhbAST2XYw4',
+                                'theme': 'light',
+                                'size': 'normal'
+                            });
+                        }
+                    }
+                }
+            };
+        </script>
+        <script src="https://www.google.com/recaptcha/api.js?onload=aminvisiblecaptchaOnloadCallback&render=explicit" async defer></script>
+    <!-- Gene GooglePay Setup -->
+<script type="text/javascript">
+    if (typeof vzero === 'undefined') {
+        // Start an instance of vZero for the Apple Pay instance
+        var vzero = new vZero(
+            'gene_braintree_creditcard',
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            'https://www.terrapinlogo.com/braintree/checkout/clientToken/'
+        );
+        console.debug(vzero);
+    }
+</script>
+
+<script type="text/javascript">
+    (function () {
+        if (typeof vzero === 'undefined') {
+            console.error('Google Pay was unable to initialize as \'vzero\' is undefined in the browser.');
+            return;
+        }
+
+        // Initialize Apple Pay once the integration kit has initialized
+        vzero.observeEvent('integration.onInit', function () {
+            new vZeroGooglePay(
+                false,
+                'Terrapin',
+                this,
+                'https://www.terrapinlogo.com/braintree/googlepay/clientToken/',
+                {
+                    environment: 'production',
+                    merchantAccountId: 'sandbox',
+                    currencyCode: 'USD',
+                    allowedCardNetworks: ["AMEX", "DISCOVER", "INTERAC", "JCB", "MASTERCARD", "VISA"]                }
+            );
+        });
+    })();
+</script>    </div>
+</div>
+</div> <!-- end: root-wrapper -->
+</body>
+</html>
