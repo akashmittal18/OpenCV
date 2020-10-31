@@ -1,5 +1,8 @@
-#About
-This repository contains all the work I have done while learning OpenCV(Open Source Computer Vision Library). I have used different functions of openCV Library like Hough transformation,image smoothening,canny edge detection and many other techniques.And also performed object detection technique and tested it on different AVI files.
+###About
+
+This repository contains all the work I have done while learning OpenCV(Open Source Computer Vision Library). 
+I have used different functions of openCV Library like Hough transformation,image smoothening,canny edge detection and many other techniques.
+And also performed object detection technique and tested it on different AVI files.
 
 
 <p align="center">
